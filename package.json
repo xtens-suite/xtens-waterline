@@ -1,0 +1,33 @@
+{
+  "name": "xtens-waterline",
+  "version": "1.0.0",
+  "description": "Waterline module for XTENS 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "PORT=9999 NODE_ENV=test mocha -R spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gicaz/xtens-waterline.git"
+  },
+  "keywords": [
+    "xtens2",
+    "wateline",
+    "jsonb"
+  ],
+  "author": "Nicolò Zanardi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/gicaz/xtens-waterline/issues"
+  },
+  "homepage": "https://github.com/gicaz/xtens-waterline#readme",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1"
+  }
+}
