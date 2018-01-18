@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gicaz/xtens-waterline.git"
+    "url": "git+https://github.com/xtens-suite/xtens-waterline.git"
   },
   "keywords": [
     "xtens2",
@@ -18,9 +18,9 @@
   "author": "Nicolò Zanardi",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/gicaz/xtens-waterline/issues"
+    "url": "https://github.com/xtens-suite/xtens-waterline/issues"
   },
-  "homepage": "https://github.com/gicaz/xtens-waterline#readme",
+  "homepage": "https://github.com/xtens-suite/xtens-waterline#readme",
   "dependencies": {
     "bluebird": "^2.10.2",
     "lodash": "^3.10.1"
